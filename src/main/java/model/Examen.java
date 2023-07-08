@@ -18,10 +18,7 @@ public class Examen {
     private String hora;
     private String tipo;
     private String resultados;
-    //Atributo referencia
-    //private Empleado veterinario;
     private String veterinario;
-    //Deberia ser de tipo Paciente
     private String paciente;
     
     //Lista de examenes
